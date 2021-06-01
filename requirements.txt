@@ -24,7 +24,7 @@ setuptools==40.8.0
 simplejson==3.16.0
 six==1.12.0
 tornado==6.0.1
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.4.1
 Werkzeug==0.14.1
 
